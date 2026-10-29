@@ -11,21 +11,6 @@ It combines a Chrome Extension (Manifest V3), OpenAI Whisper for speech-to-text,
 
 ---
 
-## 📌 Table of Contents
-
-- [The Problem](#-the-problem)
-- [Key Features](#-key-features)
-- [Architecture](#️-architecture)
-- [How It Works](#-how-it-works)
-- [Technology Stack](#️-technology-stack)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Configuration](#-configuration)
-- [Current Limitations](#-current-limitations)
-- [Security](#-security)
-
----
-
 ## 💡 The Problem
 
 Distributed teams often lose important context between meetings, documentation, and development tools.
